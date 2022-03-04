@@ -3,15 +3,15 @@
     // method that gets content from the database
     // 
     // 
-    // 
-    // 
+// install.js file 
+    // add logic for installing PWAs
     // 
     // 
 // 
 // 
-// 
-    // 
-    // 
+// src-sw.js
+    // remove offlineFallback from workbox
+    // implement asset caching
     // 
     // 
     // 
