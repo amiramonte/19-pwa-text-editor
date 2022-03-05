@@ -1,7 +1,3 @@
-// run npm install
-//
-//
-//
 // client folder => src folder => js folder => js folder => database.js file
 // method that accepts data and adds to database
 // method that gets content from the database
@@ -31,17 +27,6 @@
 // workbox plugin for manifest file
 // add CSS loaders
 // add babel
-//
-//
-//
-//add scripts to package.json
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
