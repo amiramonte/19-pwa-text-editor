@@ -1,3 +1,7 @@
+// run npm install
+//
+//
+//
 // client folder => src folder => js folder => js folder => database.js file
 // method that accepts data and adds to database
 // method that gets content from the database
