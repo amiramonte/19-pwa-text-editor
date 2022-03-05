@@ -1,10 +1,3 @@
-//
-// install.js file
-// add logic for installing PWAs
-//
-//
-//
-//
 // src-sw.js
 // remove offlineFallback from workbox
 // implement asset caching
