@@ -1,9 +1,8 @@
-//double check all files are complete
+// double check all files are complete
 //
 // README completion
 //
 // deploy to Heroku
-//
 //
 //
 //
