@@ -1,4 +1,3 @@
-// double check all files are complete
 //
 // README completion
 //
