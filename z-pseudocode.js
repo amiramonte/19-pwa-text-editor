@@ -1,7 +1,8 @@
+// verify everything working on heroku
+//
 //
 // README completion
 //
-// deploy to Heroku
 //
 //
 //
