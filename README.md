@@ -40,7 +40,7 @@ Project is created with:
 The following animation shows the functionality of J.A.T.E. text editor.
 
 
-![]()
+![J.A.T.E. Functionality .gif](./assets/images/jate_functionality.gif)
 
 
 The following link leads to the deployed application.
