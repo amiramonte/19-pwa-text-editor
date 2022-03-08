@@ -43,6 +43,10 @@ The following animation shows the functionality of J.A.T.E. text editor.
 ![]()
 
 
+The following link leads to the deployed application.
+
+[Heroku deployment of J.A.T.E. P.W.A.](https://shrouded-depths-39368.herokuapp.com/)
+
 ---
 
 
