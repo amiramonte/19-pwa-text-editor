@@ -1,4 +1,4 @@
-# 19 Progressive Web Applications: Text Editor
+# Progressive Web Applications: Text Editor
 
 ## Table of contents
 
