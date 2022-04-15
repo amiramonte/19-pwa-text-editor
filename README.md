@@ -62,7 +62,7 @@ Project is created with:
 3. Navigate to your command line interface and enter `npm i` to install all dependencies
 4. Initialize the program by inputting `npm run start` into your command line interface from the root level
 5. Once you receive a response that the server is operational in your terminal or command line interface, navigate to `http://localhost:3000` on your preferred internet browser to interact with J.A.T.E. text editor 
-6. Downloading the progressive web application is possible by clicking on the install button on the header of the text editor or the button at the end of the browser URL bar. 
+6. Download of the progressive web application is possible by clicking on the `Install` button on the header of the text editor or the button at the end of the browser URL bar. 
 
 
 ---
