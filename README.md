@@ -8,17 +8,14 @@
 - [Deployment](#deployment)
 - [Credits](#credits)
 
+
 ---
 
 
 ## Description
 
-This project was built to help reinforce the following skills:
+J.A.T.E. was designed to better understand progressive web applications and the usage of Webpack to create them. The application is built around a straight forward text editor that works both locally on your preferred web browser, as well as enables a user to download the application on their local machine to have it operate independently of their preferred web browser.
 
-- Node.js
-- Express.js
-- Progressive Web Applications
-- Heroku Deployment
 
 ---
 
