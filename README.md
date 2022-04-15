@@ -3,9 +3,10 @@
 ## Table of contents
 
 - [Description](#description)
-- [Technologies](#technologies)
 - [Functionality](#functionality)
-- [Deployment](#deployment)
+- [Deployed Application](#deployedapplication)
+- [Technologies](#technologies)
+- [Installation](#installation)
 - [Credits](#credits)
 
 
@@ -20,6 +21,27 @@ J.A.T.E. was designed to better understand progressive web applications and the 
 ---
 
 
+## Functionality
+
+The following animation shows the functionality of J.A.T.E. text editor.
+
+
+![J.A.T.E. Functionality .gif](./assets/images/jate_functionality.gif)
+
+
+---
+
+
+## Deployed Application
+
+The following link leads to the deployed application.
+
+[Heroku deployment of J.A.T.E. P.W.A.](https://shrouded-depths-39368.herokuapp.com/)
+
+
+---
+
+
 ## Technologies
 
 Project is created with:
@@ -29,25 +51,11 @@ Project is created with:
 - [Express.js](https://expressjs.com/)
 - [Webpack](https://webpack.js.org/)
 
----
-
-
-## Functionality
-
-The following animation shows the functionality of J.A.T.E. text editor.
-
-
-![J.A.T.E. Functionality .gif](./assets/images/jate_functionality.gif)
-
-
-The following link leads to the deployed application.
-
-[Heroku deployment of J.A.T.E. P.W.A.](https://shrouded-depths-39368.herokuapp.com/)
 
 ---
 
 
-## Deployment
+## Installation
 
 - Copy the repository from Github
 - Navigate to the folder you would like to store this repo in on your local machine
