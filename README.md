@@ -57,13 +57,12 @@ Project is created with:
 
 ## Installation
 
-- Copy the repository from Github
-- Navigate to the folder you would like to store this repo in on your local machine
-- git clone the repo into your preferred folder
-- open the repo in your preferred source code editor 
-- In your terminal or command line interface, type `npm i`
-- Once the appropriate packages have downloaded, initialize the program by navigating to your terminal and typing in `npm run start` from the root level
-- Once you receive a response that the server is operational in your terminal or command line interface, navigate to localhost:3000 on your preferred internet browser to interact with J.A.T.E. text editor. Downloading the progressive web application is possible by clicking install button on the header or the button at the end of the browser URL bar. 
+1. Clone the repository from Github
+2. Open the repository in your preferred source code editor 
+3. Navigate to your command line interface and enter `npm i` to install all dependencies
+4. Initialize the program by inputting `npm run start` into your command line interface from the root level
+5. Once you receive a response that the server is operational in your terminal or command line interface, navigate to `http://localhost:3000` on your preferred internet browser to interact with J.A.T.E. text editor 
+6. Downloading the progressive web application is possible by clicking on the install button on the header of the text editor or the button at the end of the browser URL bar. 
 
 
 ---
